@@ -1,8 +1,9 @@
 // Create an array with 5 students name, after that create a function which takes 2 parameters (allStudents & studentName) iterate over all students and find that specific user "StudentName".
 
 // My Solution
-const allStudents = ["Romm", "James", "Picar", "Cuya", "Lea"];
+const allStudents = ["Romm", "James", "Picar", "Cuya", "Lea"]; // Data Structure
 
+// Algorithm for finding a specific user
 function findStudent(allStudents, studentName) {
   const getStudent = allStudents.filter((student) => student === studentName);
   if (getStudent.length <= 0) return "Student doesn't exist.";
