@@ -1,0 +1,5 @@
+O(n^2)
+- Indicates that the algorithms execution time grows quadratically with the size of the input data (represented by n).
+
+EXAMPLE
+Imagine you have a box of items and want to compare each item with every other item to find specific pairs. As the number of items (n) increases, the number of comparisons (n^2) grows much faster.

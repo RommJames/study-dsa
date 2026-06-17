@@ -1,0 +1,15 @@
+How can we tell if the code we just wrote is good code?
+- "BIG O" Notation
+
+What is Big O?
+- Helps us understand "how long" (Time Complexity) an algorithm will take to run or "how much" (Space Complexity) memory it will need as the amount of data it handles grows.
+
+Imagine you have a giant mess to clean.
+Big O notation is like saying how the cleaning time grows as the mess gets bigger.
+
+---
+
+1. O(n)
+- Signifies that the execution time of the algorithm grows "linearly" in proportion to the size of the input data (n).
+- As the number of items in the input data increases, the time it takes for the algorithm to run increases correspondingly.
+- Check one by one, linearly to find the items
