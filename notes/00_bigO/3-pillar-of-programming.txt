@@ -7,10 +7,12 @@
 ### 2. Memory
         - Space Complexity
         - We have a limited space in memory
+        - Space is the memory that is required by algorithm
 
 ### 3. Speed
         - Big O Time Complexity
         - Efficient and it scales well
+        - Time is how long it takes the algorithm to run
 
 ## Trade Off between Space and Memory
 ### We want things to go fast?
@@ -18,3 +20,8 @@
 
 ### We want less memory?
     - we might sacrifice with increased speed
+
+
+## What is good code?
+    1. Readable
+    2. Scalable
