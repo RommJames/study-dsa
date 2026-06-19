@@ -1,0 +1,20 @@
+## Which Code is best?
+
+### 1. Readable
+        - Readable and clean code
+        - Others can read that is maintainable
+
+### 2. Memory
+        - Space Complexity
+        - We have a limited space in memory
+
+### 3. Speed
+        - Big O Time Complexity
+        - Efficient and it scales well
+
+## Trade Off between Space and Memory
+### We want things to go fast?
+    - We sacrifice memory
+
+### We want less memory?
+    - we might sacrifice with increased speed
